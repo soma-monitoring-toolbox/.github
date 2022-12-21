@@ -1,3 +1,6 @@
+![SOMA-1](https://user-images.githubusercontent.com/10570459/208798097-2e2cbd83-8eb4-44c9-90e3-d4157006ef3b.png)
+
+
 SOMA is an open-source and freely available toolbox for composing distributed, high-performance computing (HPC) monitoring, analysis, and visualization services out of microservice components. SOMA employs the principle of composability to design, build, maintain, deploy, and extend monitoring capabilities. SOMA is inspired by and reliant on the ```Mochi``` framework from Argonne National Laboratory (https://mochi.readthedocs.io/) to build portable HPC microservices.
 
 SOMA's design is guided by the following principles ("CPAIR"):
